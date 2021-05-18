@@ -6,8 +6,8 @@ but it becomes hard quickly.
 # Download Instructions
 Download the files in this repository as a zip. Once the zip is finished downloading, extract it to your desktop.
 Make sure that you have java downloaded on your computer, and make sure that the libs folder was also downloaded with the jar.
-Once everything is extracted to your desktop, you should be able to double click it open. If that doesn't work, right click then 
-press open.
+Once everything is extracted to your desktop, you should be able to double click the jar file labeled
+appmain-javase-1.0-SNAPSHOT.jar open. If that doesn't work, right click then press open.
 # How to Play
 To move the helicopter right press 6 or r, to move left press 4 or l, to accelerate press 8 or a, and to brake press 5 or b. 
 To turn the sound off and on press 0 and to pause and unpause the game press 1.
